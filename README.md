@@ -50,7 +50,7 @@
 
 ## 🚀 Live Application
 
-**Cloud Environment**: [https://d68de6f23ebe4495a458c60d6b579712-f83f68d38e3d41ac82a0e0d80.projects.builder.codes](https://d68de6f23ebe4495a458c60d6b579712-f83f68d38e3d41ac82a0e0d80.projects.builder.codes)
+**Netlify live link**: https://687d38f22ff23fe99156587a--recure1.netlify.app/
 
 ![RecurDate Application](https://via.placeholder.com/800x600/4F46E5/FFFFFF?text=RecurDate+Application)
 
